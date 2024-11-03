@@ -2,15 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
-
+<h3 align="center">A passionate Full-stack Developer</h3>
 
 🚀 About Me:
-I am a fresh graduate with a degree in  Bachelor of Computer Applications  and a strong focus on front-end technologies. My journey into the world of coding started with a fascination for building visually appealing and user-friendly websites. 
+I am a graduate with a degree in  Bachelor of Computer Applications  and a strong focus on front-end technologies. My journey into the world of coding started with a fascination for building visually appealing and user-friendly websites. 
 
 💻 Tech Stack:
-HTML, CSS,Tailwind, Bootstrap ,JavaScript, ReactJS,  C++, Git
+HTML, CSS,Tailwind, Bootstrap ,JavaScript, ReactJS, Nodejs , Express , Mongodb , Typescript, Git
 
 🌱 Learning:
 I am eager to dive deeper into the world of front-end development and keep myself updated with the latest industry trends.
@@ -23,18 +21,6 @@ Feel free to connect with me on LinkedIn [LinkedIn URL] or drop me an email at [
 🙏 Thank You!
 Thank you for visiting my GitHub profile! I'm excited about the possibilities that lie ahead, and I look forward to connecting with fellow developers, designers, and enthusiasts. Let's create the future of the web together! 🚀
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,4 +33,4 @@ Thank you for visiting my GitHub profile! I'm excited about the possibilities th
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaji513&show_icons=true&locale=en&layout=compact" alt="sharmaji513" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaji513&" alt="sharmaji513" /></p>
+
